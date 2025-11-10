@@ -1,0 +1,9 @@
+{
+	"name": "Godot Template",
+	"emoji": "🎮",
+	"integrations": {
+		"customRoutes": {
+			"directory": "server/api"
+		}
+	}
+}
